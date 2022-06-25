@@ -1,0 +1,204 @@
+.number_buy {
+  background-color: #f1f2f4;
+  text-align: center;
+  height: 84px;
+  line-height: 84px;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.all_detail {
+  padding: 50px 0;
+}
+.show_products {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.clear {
+  clear: both;
+}
+.product_thumnail {
+  width: 50%;
+  float: left;
+}
+.product_thumnail img {
+  width: 100px;
+}
+.product_price {
+  width: 15%;
+  float: left;
+}
+.product_quatity {
+  width: 15%;
+  float: left;
+}
+.product_total {
+  width: 10%;
+  float: left;
+}
+.product_remove {
+  width: 10%;
+  float: left;
+  font-size: 2rem;
+}
+.product_remove a {
+  color: #000;
+}
+.text_ {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+#name_product {
+  font-size: 16px;
+  margin-left: 20px;
+}
+#price {
+  font-size: 20px;
+  color: red;
+}
+#quatity {
+  padding-top: 34px;
+  font-size: 16px;
+}
+.product_remove span {
+  float: right;
+  opacity: 1;
+}
+.product_remove span:hover {
+  opacity: 0.5;
+}
+.coupon_ticket {
+  width: 100%;
+  padding: 40px;
+  border: 2px solid #f1f2f4;
+}
+.coupon {
+  float: left;
+  width: 30%;
+  font-size: 20px;
+  font-weight: 500;
+  height: 42px;
+}
+.coupon_code {
+  float: left;
+  width: 50%;
+  color: #9e9097;
+  font-size: 20px;
+}
+.coupon_code_border {
+  border: none !important;
+  width: 100%;
+  outline: none;
+}
+.coupon_btn {
+  width: 20%;
+  float: left;
+  height: 46px;
+}
+.btn_apdung {
+  float: right;
+  font-size: 24px;
+  font-weight: 500;
+  color: #000;
+}
+.btn_apdung:hover {
+  opacity: 0.6;
+  text-decoration: none;
+}
+.btn_giohang {
+  width: 100%;
+  height: 60px;
+  margin-top: 20px;
+  color: white;
+  background-color: #f95030;
+  border: none;
+  border-radius: 3px;
+}
+.btn_giohang:hover {
+  color: white;
+  background-color: #d34528;
+}
+.btn_giohang.un_active {
+  width: 100%;
+  height: 60px;
+  margin-top: 20px;
+  color: white;
+  background-color: #912e1a;
+  border: none;
+  border-radius: 3px;
+  cursor: default;
+}
+.total_shopping {
+  width: 30%;
+  float: left;
+}
+.total_col {
+  width: 70%;
+  float: left;
+  margin-top: 24px !important;
+}
+.border_khung {
+  width: 100%;
+  border: 2px solid #f1f2f4;
+  padding: 40px;
+  margin-bottom: 50px;
+}
+.pad24px {
+  padding-bottom: 24px !important;
+}
+.number_pro {
+  font-size: 2rem;
+}
+.number_pro a {
+  color: #f95030;
+  padding: 0 12px;
+}
+/* Checkout */
+.marg20 {
+  margin-top: 20px;
+  width: 100%;
+  background-color: #f1f2f4;
+  height: 358px;
+}
+.pad_title_content {
+  padding: 52px 0px;
+}
+.page_title {
+  text-align: center;
+  font-size: 90px;
+  padding-bottom: 35px;
+}
+.alignbr {
+  text-align: center;
+}
+.marg30 {
+  margin-top: 30px;
+}
+.product img {
+  width: 100px;
+}
+#price {
+  margin-left: 20px;
+  color: red;
+}
+input.button {
+  width: 100%;
+  height: 50px;
+  background-color: red;
+  color: white;
+  margin-top: 30px;
+  border: none;
+  border-radius: 3px;
+}
+.marg-bottom-30 {
+  margin-bottom: 30px;
+}
+textarea {
+  outline: none;
+}
+.radio-inline,
+.checkbox-inline {
+  padding-left: 36px;
+}
